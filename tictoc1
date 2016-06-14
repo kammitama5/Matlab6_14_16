@@ -1,0 +1,5 @@
+tic; sum(1:1e3); toc
+Elapsed time is 0.000144 seconds.
+tic; sum(1:1e6); toc
+Elapsed time is 0.005281 seconds.
+diary off

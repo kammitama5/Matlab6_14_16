@@ -1,0 +1,6 @@
+tic; prealloc; toc
+Elapsed time is 0.381306 seconds.
+tic; prealloc; toc
+Elapsed time is 19.743628 seconds.
+
+diary off
